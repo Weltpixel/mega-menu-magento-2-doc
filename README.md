@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/mega-menu-for-magento-2.html">Magento 2 Mega Menu by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/mega-menu-for-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Mega Menu by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/mega-menu-for-magento-2.html"><img src="https://www.weltpixel.com/media/catalog/product/m/e/megamenu_1.png" alt="Mega Menu"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/mega-menu-for-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/m/e/megamenu_1.png" alt="Mega Menu"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MEGA MENU EXTENSION FOR MAGENTO 2.</h1>
+    <h1>ABOUT THE MEGA MENU EXTENSION FOR MAGENTO 2.</h1>
 <p>
  WeltPixel’s Mega Menu Extension helps merchants create a clean, professional Magento 2 navigation menu. No technical skills needed!
 </p>
@@ -24,19 +24,19 @@ Store owners can assign a custom menu view for each individual category. This al
 </p>
 <p>
 Sure WeltPixel’s Mega Menu includes a great design - but that’s not all. It has powerful functionalities such as: the ability to open menu links in new tabs, disable category links, and even overwrite category links with other internal or external links. Store owners can now add Magento 2 menu links to external pages such as support platforms. Menu links can also be added to internal pages like the “About Us” or “Contact Us.”
-	</p>
+  </p>
 <p>
 <strong>One click add custom content to Mega Menu.</strong>
-	</p>
+  </p>
 <p>
 Mega Menu allows merchants to add custom CMS blocks or HTML content individually for each category sub-menu position. This includes; Top, Bottom, Left or Right. You will be able to showcase new products, promotions, carousels, and more!
-	</p>
+  </p>
 <p>
-<a href="https://pearl.weltpixel.com/v10">--> Click for Magento 2 Mega Menu Extension frontend DEMO</a>
-	</p>
+<a href="https://pearl.weltpixel.com/v10?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">--> Click for Magento 2 Mega Menu Extension frontend DEMO</a>
+  </p>
 <p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/mega-menu-for-magento-2.html">Magento 2 Mega Menu by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/mega-menu-for-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Mega Menu by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                            </div></td>
  </tr>
 </table>
@@ -236,8 +236,8 @@ Mega Menu allows merchants to add custom CMS blocks or HTML content individually
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                 <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -270,7 +270,7 @@ You will be able to configure a different display mode for each category:
 </li>
 </ul>
 <ul>
-	<p>
+  <p>
 -Menu display mode for each level 1 category: <strong>Width / Sectioned / Boxed / Default Magento</strong>
 </p>
 <p>
@@ -340,7 +340,7 @@ You will be able to configure a different display mode for each category:
 <h3>HOW TO SET CUSTOM LINKS FOR CATEGORIES IN MAGENTO?</h3>
 <p>
 Go to <strong>Products > Categories (any level) > WeltPixel Options</strong>
-	</p>
+  </p>
 <ul>
     <li>
         <strong>Link</strong> - if necessary you can set a custom link for any category in the menu, including external links.
@@ -350,11 +350,11 @@ Go to <strong>Products > Categories (any level) > WeltPixel Options</strong>
 </li>
 </ul>
 <p>
-	<strong>Note:</strong>
+  <strong>Note:</strong>
 </p>
 <p>
 If you are using the option to add custom links in the Mega Menu we recommend to also use Google XML Sitemap Extension and exclude categories from sitemap that are only used for menu links and are not real categories. Applicability: You may want to add a category that links to an external website, directly to a product page, etc..
-</p>	
+</p>  
 
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-megamenu/megamenu_step3.png"></p>
 </div>
@@ -373,14 +373,14 @@ If you are using the option to add custom links in the Mega Menu we recommend to
 Mobile Menu Breakpoint - Insert the breakpoint when navigation menu changes to mobile look and behavior (value in pixels). Ex. 1050.
 </li>
 <p>
-	<strong>Note on applicability:</strong>
+  <strong>Note on applicability:</strong>
 </p>
 <p>
 <strong>Case 1:</strong> You may need the mobile menu to kick in at a higher resolution than default magento 768px. There are mobile devices and small laptops with resolution between 800-1200px where your desktop menu may look crowded on small devices. By setting a higher breakpoint for mobile menu you will be able cover this cases elegantly.
-</p>	
+</p>  
 <p>
 <strong>Case 2:</strong> Some website designs use mobile menu for both mobile and desktop. You will be able to achieve this easily by setting a breakpoint that will never be reached by your users ex 8000[px], so mobile menu will show permanently.
-	</p>
+  </p>
 </ul>
 
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-megamenu/megamenu_step4.png"></p>
@@ -441,4 +441,4 @@ Mobile Menu Breakpoint - Insert the breakpoint when navigation menu changes to m
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/mega-menu-for-magento-2.html">Magento 2 Mega Menu by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/mega-menu-for-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Mega Menu by WeltPixel.</a></h3>
