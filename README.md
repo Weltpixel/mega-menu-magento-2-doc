@@ -387,7 +387,6 @@ Mobile Menu Breakpoint - Insert the breakpoint when navigation menu changes to m
 </div>
   </td>
  </tr>
-
                                                                    <tr>
   <td width="100%">
       <div class="col-md-6">
